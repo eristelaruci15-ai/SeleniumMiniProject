@@ -1,0 +1,2 @@
+# SeleniumMiniProject
+Automated Testing Project.
