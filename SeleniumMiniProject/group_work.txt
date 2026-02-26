@@ -1,0 +1,48 @@
+Group Work_ Selenium Project
+
+Patrik:
+
+Test 1: Create an Account
+Implement account creation flow, form filling, registration, and logout.
+Test 2: Sign In
+Implement login with created credentials and verify username display.
+
+Martina:
+
+Test 3: Check hover style
+Implement hover actions on Women category and products, verify hover styling.
+Test 4: Check sale products style
+Verify discounted price styling (strikethrough, color changes).
+
+Eristela:
+
+Test 5: Check page filters
+Implement color and price filtering, verify UI updates and product count.
+Test 6: Check Sorting
+Implement sorting by price, verify order, and wishlist functionality.
+
+Isra:
+
+Test 7: Shopping Cart test
+Add wishlist items to cart, update quantities, verify total pricing.
+
+Elsa:
+
+Test 8: Empty Shopping Cart Test
+Implement cart item removal, verify cart emptiness and final message.
+Framework setup & shared tasks:
+Base page setup, driver management, screenshots for each test (wins or failures).
+
+
+How to set the project up:
+
+1. Download the folder.zip
+2. Folders:base, pages, tests, utils have already been created. [the path:Selenium_Project\src\test\java\com\tealiumdemo\tests]
+3. The codes have already been made at base folder (BaseTest), pages folder (HomePage, RegisterPage) and utils folder (TestDataGenerator)
+4. You MUST do the project in VS Code NOT InteliJ, otherwise it will show a lot of errors and won't work.
+5. Add the project folder in vs code. 
+6. Download the needed extension about java, to make the code work.
+7. You also need to download chromedriver.exe and add it to the folder of the project so the whole project works and the website opens.
+8. Each test should be added at the tests folder [Selenium_Project\src\test\java\com\tealiumdemo\tests]
+9. I will test the tests all in the end and then screenshot all the answers.
+10. When finished, send me the code via google drive, in a zip folder.
